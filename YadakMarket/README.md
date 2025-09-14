@@ -12,8 +12,8 @@ It was developed locally as a **portfolio showcase** and is not a production sit
 - About, Contact, and Shop pages with sample content  
 
 ## 🎥 Demo Video
-[![Watch the demo](demo-thumbnail.png)](demo-video.mp4)  
-*(Click the image to watch the full demo)*  
+👉 [Watch the demo on YouTube](https://youtu.be/RsTkgqC6ua0)
+
 
 ## ⚠️ Notes
 - This project runs on **localhost**, intended only as a **portfolio demo**  
